@@ -1,3 +1,10 @@
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello%2C+World!;Welcome+to+my+GitHub;Embedded+Systems+%7C+Telecommunications;Cybersecurity+%7C+Technology" alt="Cabeçalho animado" />
+
+</div>
+
 # ⚡ Sofia | Sofilani
 
 ### `> Hello, World! 👩‍💻`
@@ -12,7 +19,7 @@ Busco constantemente desenvolver meus conhecimentos por meio de projetos prátic
 
 ---
 
-### `01 // Áreas de interesse`
+### `01 // ÁREAS DE INTERESSE`
 
 - ⚡ Sistemas embarcados e eletrônica
 - 📡 Telecomunicações e comunicação entre dispositivos
@@ -21,15 +28,16 @@ Busco constantemente desenvolver meus conhecimentos por meio de projetos prátic
 - 💻 Programação e desenvolvimento de software
 - 🌐 Integração entre hardware e software
 
-### `02 // Tecnologias`
 
-**Linguagens:** Python • C/C++ • JavaScript • HTML • CSS
+### `02 // TECH STACK`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,arduino,git,github,flask,sqlite,nodejs,vscode&theme=dark&perline=6" alt="Tecnologias e ferramentas" />
+</p>
 
 **Hardware:** Arduino • ESP32 • Sensores e atuadores
 
-**Ferramentas e tecnologias:** Git • GitHub • Flask • SQLite • Node.js
-
-### `03 // Projetos`
+### `03 // PROJETOS`
 
 - 🤖 [MathMota — Robô Educacional](https://github.com/Sofilani/mathmota)
 - 🚦 Semáforo Inteligente
@@ -37,7 +45,7 @@ Busco constantemente desenvolver meus conhecimentos por meio de projetos prátic
 
 ---
 
-### `04 // Minha motivação`
+### `04 // MINHA MOTIVAÇÃO`
 
 > Acredito que a tecnologia ganha ainda mais significado quando transforma conhecimento em soluções reais.
 
